@@ -1,0 +1,20 @@
+{
+	"name": "com.hgrandry.tween",
+	"version": "1.0.0",
+	"displayName": "Hg Tween",
+	"description": "Lightweight tween library for Unity",
+	"unity": "2019.1",
+	"unityRelease": "0b5",
+	"dependencies": {},
+	"keywords": [
+		"tween",
+		"animation",
+		"ui",
+		"lightweight"
+	],
+	"author": {
+		"name": "Hadrien Grandry",
+		"email": "hadrien.grandry@gmail.com",
+		"url": "https://hgrandry.github.io"
+	}
+}
